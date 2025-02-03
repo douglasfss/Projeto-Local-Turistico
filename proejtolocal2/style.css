@@ -1,0 +1,23 @@
+
+html {
+  margin:0 auto;
+}
+
+body {
+  text-align: center;
+  background-color: #F5F4F0;
+}
+
+
+
+
+
+main {
+  padding-left: 80px;
+  padding-top: 88px;
+}
+
+footer {
+  padding: 243px;
+  text-align: center;
+}
